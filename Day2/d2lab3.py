@@ -1,5 +1,5 @@
-#question no 4
+#question no 5
 n=int(input("number:"))
 hours = n//60
 minutes=n%60
-print(hours, minutes)
+print(f"{hours, minutes}")
