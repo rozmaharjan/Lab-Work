@@ -1,4 +1,4 @@
 numer=int(input("enter a number"))
 
-sumodigits=)
+sumofdigits=
 for digit in str(number)
